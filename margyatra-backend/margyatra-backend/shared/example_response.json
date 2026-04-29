@@ -1,0 +1,143 @@
+{
+  "user_id": "a1b2c3-d4e5f6",
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Day 1 — Arrival & First Rush",
+      "slots": [
+        {
+          "slot": "morning",
+          "icon": "🥾",
+          "place_name": "Kyoto Ridge Trail",
+          "description": "Lace up and hit iconic trails with panoramic views locals have cherished for centuries.",
+          "cost_category": "low",
+          "safety_score": 7.8,
+          "crowd_level": "low",
+          "best_time_to_visit": "Morning — ideal lighting and conditions",
+          "risk_notes": null
+        },
+        {
+          "slot": "afternoon",
+          "icon": "🤿",
+          "place_name": "Kyoto Blue Lagoon",
+          "description": "Dive into crystal-clear waters for snorkelling, kayaking, or a guided surf lesson.",
+          "cost_category": "medium",
+          "safety_score": 7.0,
+          "crowd_level": "high",
+          "best_time_to_visit": "Afternoon — recommended time",
+          "risk_notes": "Check sea conditions and local lifeguard advisories."
+        },
+        {
+          "slot": "evening",
+          "icon": "🌃",
+          "place_name": "Kyoto Night Bazaar",
+          "description": "Wander vibrant stalls loaded with street food, handmade crafts, and live music.",
+          "cost_category": "low",
+          "safety_score": 6.3,
+          "crowd_level": "medium",
+          "best_time_to_visit": "Evening — recommended time",
+          "risk_notes": "Keep valuables secure in crowded night markets."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Day 2 — Into the Wild",
+      "slots": [
+        {
+          "slot": "morning",
+          "icon": "🧗",
+          "place_name": "Kyoto Cliffs",
+          "description": "Challenge sheer limestone cliffs with a certified guide and breathtaking payoff at the top.",
+          "cost_category": "medium",
+          "safety_score": 6.3,
+          "crowd_level": "low",
+          "best_time_to_visit": "Morning — recommended time",
+          "risk_notes": "Certified guide and proper gear mandatory."
+        },
+        {
+          "slot": "afternoon",
+          "icon": "🌿",
+          "place_name": "Kyoto Canopy Park",
+          "description": "Soar over the forest canopy — the kind of rush you'll talk about for years.",
+          "cost_category": "medium",
+          "safety_score": 7.0,
+          "crowd_level": "high",
+          "best_time_to_visit": "Afternoon — recommended time",
+          "risk_notes": "Verify operator safety certifications before booking."
+        },
+        {
+          "slot": "evening",
+          "icon": "🌃",
+          "place_name": "Kyoto Night Bazaar",
+          "description": "Wander vibrant stalls loaded with street food, handmade crafts, and live music.",
+          "cost_category": "low",
+          "safety_score": 6.3,
+          "crowd_level": "medium",
+          "best_time_to_visit": "Evening — recommended time",
+          "risk_notes": "Keep valuables secure in crowded night markets."
+        }
+      ]
+    }
+  ],
+  "user_profile": {
+    "user_id": "a1b2c3-d4e5f6",
+    "username": "traveller_a1b2c3",
+    "created_at": "2025-04-28T10:00:00.000Z",
+    "score": 10,
+    "weights": {
+      "adventure":     1.0,
+      "chill":         1.0,
+      "luxury":        1.0,
+      "cultural":      1.0,
+      "budget_low":    1.0,
+      "budget_medium": 1.0,
+      "budget_high":   1.0
+    }
+  },
+  "quests": [
+    {
+      "quest_id":      "ADV_001",
+      "title":         "Trail Blazer",
+      "badge":         "🥾",
+      "condition":     "Complete 2 outdoor adventure activities in a single trip",
+      "reward_points": 150,
+      "status":        "in_progress",
+      "progress":      0,
+      "expires_at":    "2025-05-28T10:00:00.000Z"
+    },
+    {
+      "quest_id":      "ADV_002",
+      "title":         "Adrenaline Seeker",
+      "badge":         "⚡",
+      "condition":     "Try 3 different adventure activity types",
+      "reward_points": 300,
+      "status":        "in_progress",
+      "progress":      0,
+      "expires_at":    "2025-05-28T10:00:00.000Z"
+    },
+    {
+      "quest_id":      "UNV_001",
+      "title":         "First Step",
+      "badge":         "✈️",
+      "condition":     "Complete your first trip itinerary",
+      "reward_points": 50,
+      "status":        "in_progress",
+      "progress":      0,
+      "expires_at":    "2025-05-28T10:00:00.000Z"
+    },
+    {
+      "quest_id":      "UNV_002",
+      "title":         "World Citizen",
+      "badge":         "🌍",
+      "condition":     "Visit 5 different countries using MargYatra",
+      "reward_points": 500,
+      "status":        "in_progress",
+      "progress":      0,
+      "expires_at":    "2025-05-28T10:00:00.000Z"
+    }
+  ],
+  "leaderboard": [
+    { "rank": 1, "user_id": "a1b2c3-d4e5f6", "username": "traveller_a1b2c3", "score": 10 }
+  ]
+}
